@@ -8,3 +8,4 @@
 mdmd7744/mdmd7744 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![.github/workflows/main.yml](https://github.com/mdmd7744/mdmd7744/actions/workflows/main.yml/badge.svg)](https://github.com/mdmd7744/mdmd7744/actions/workflows/main.yml)
